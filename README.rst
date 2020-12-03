@@ -1,15 +1,15 @@
 
-=================================
-OMEF_OpenMetricsExchangeFramework
-=================================
+==========================================
+OMEF - the Open Metrics Exchange Framework
+==========================================
 
 
 .. sectnum::
 
-.. contents:: The tiny table of contents
+.. contents:: Table of contents
 
-What is Open Metrics Exchange Framework?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+What is Open Metrics Exchange Framework (OMEF)?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
